@@ -1,0 +1,11 @@
+{
+  "name": "starlinghx",
+  "url" : "https://github.com/7ujian/starlinghx",
+  "license": "GPL",
+  "tags": ["cross","3d", "starling", "stage3d"],
+  "description": "Haxe port of Starling Framework based on openfl and openfl-stage3d",
+  "version": "0.0.1",
+  "releasenote": "First relase",
+  "contributors": ["7ujian"],
+  "dependencies": {"openfl":"1.0.6","stage3d-glsl":"0.1.0", "openfl-stage3d":"0.1.3"}
+}

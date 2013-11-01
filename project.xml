@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="TestStarlingHx" package="com.jqiu.TestStarlingHx" version="0.0.1" />
+	<app main="Test" path="Export" file="Starlinghx" />
+
+	<window width="640" height="480" />
+	<window orientation="landscape" fps="60" />
+
+	<set name="SWF_VERSION" value="11.2" />
+	
+	<source path="src" />
+	
+	<haxelib name="openfl" />
+	<haxelib name="openfl-stage3d" />
+	<haxelib name="stage3d-glsl" />
+
+	<assets path="Assets" rename="assets" exclude="openfl.svg" />
+	<icon path="Assets/openfl.svg" />
+	<haxedef name="flash11" />
+</project>

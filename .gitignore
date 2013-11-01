@@ -1,0 +1,9 @@
+.*
+/*
+/*/
+!.gitignore
+!README.md
+!project.xml
+!haxelib.json
+!Source/
+!Assets/
