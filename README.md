@@ -14,10 +14,12 @@ https://github.com/PrimaryFeather/Starling-Framework
 Features done:
 
 * Rendering pipeline - RenderSupport, QuadBatch, VertexData
+* Basic shader mapped to openfl-stage3d
 * DisplayList - DisplayObject, DisplayObjectContainer, Sprite, Quad, Image, MovieClip 
 * EventDispatcher
 
 TODOs:
+* Map other shaders to openfl-stage3d
 * Touch
 * Filters
 * Sound
